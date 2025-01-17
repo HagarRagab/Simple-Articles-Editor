@@ -11,6 +11,7 @@ body {
 .container {
     background-color: #eee;
     padding: 10px;
+    margin: 40px;
 }
 .container .controller {
     display: flex;
